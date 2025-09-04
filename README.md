@@ -25,8 +25,8 @@ I’m a passionate developer learning to build dynamic websites. I love explorin
 ---
 
 ### 📊 GitHub Stats
-![Gunjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Gunjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GunjanKandel&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunjanKandel&layout=compact&theme=tokyonight)
 
 ---
 
